@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  background-color: rgb(244, 36, 36);
+  align-items: center;
+}
+input[type="submit"] {
+  background-color: rgb(71, 181, 76);
+}
+body {
+  background-color: rgb(136, 215, 222);
+}
+
+img {
+  margin-top: 20px;
+  float: left;
+  margin-right: 10px;
+}
